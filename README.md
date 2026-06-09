@@ -1,1 +1,1 @@
-# AI-Powered-Business-Intelligence-Recruitment-Research-Assistant
+# AI-Powered-Recruitment-Research-Assistant
