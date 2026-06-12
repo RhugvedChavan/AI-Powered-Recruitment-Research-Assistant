@@ -73,6 +73,6 @@ The AI-Powered Recruitment Research Assistant demonstrates how Large Language Mo
 
 # Run & Installation :- 
 
-Clone the repository - 
+Clone the repository - https://github.com/RhugvedChavan/AI-Powered-Recruitment-Research-Assistant.git
 
-streamlit run ui.py
+Run - streamlit run ui.py
