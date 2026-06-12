@@ -68,3 +68,11 @@ The AI-Powered Recruitment Research Assistant demonstrates how Large Language Mo
 2. AI & ML - Mistral Large Language Model (LLM)
 3. Frameworks & Libraries - LangChain , LangChain MistralAI , Python Dotenv
 4. Search & Data Collection - Tavily Search API
+5. Ui - Streamlit
+
+
+# Run & Installation :- 
+
+Clone the repository - 
+
+streamlit run ui.py
