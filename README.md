@@ -1,8 +1,5 @@
 # AI-Powered-Recruitment-Research-Assistant
 
-
-Objective :- 
-
 1. To automate the collection of company and college information from publicly available web sources.
 2. To generate structured business intelligence reports using AI.
 3. To assist recruiters, HR consultants, and business development teams in identifying potential client companies.
